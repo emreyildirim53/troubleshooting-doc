@@ -1,4 +1,4 @@
-# Kubernetes Installment Steps
+# Kubernetes Installation Steps
 
 ## Assumptions
 
