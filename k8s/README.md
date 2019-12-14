@@ -26,3 +26,30 @@ Optional: Build and run the app using `docker-compose up` and navigate to `http:
 - Create a Helm chart first (using `helm create xxx`) to deploy apps
 - Use existing Redis and Postgres Helm charts to deploy them, deploy them as a single instance (not highly available)
 - Do not try to persist Redis and Postgres' data. Let it be lost if restarted. It is OK for now.
+
+## 2. Fix Problem
+
+Trying to reach page `demo.cluster-<your_cluster_id>.do.gokhansengun.com` produces a 503 error. Please find out and fix the problem.
+
+### Hints
+
+- There might be a missing configuration
+- `gsengun/aspnetcoredemo` Docker image accepts traffic on port 80
+
+## 3. Fix Problem
+
+Trying to reach page `demo.cluster-<your_cluster_id>.do.gokhansengun.com` produces a 503 error. Please find out and fix the problem.
+
+### Hints
+
+- There is only one error
+- `gsengun/aspnetcoredemo` Docker image accepts traffic on port 80
+
+## 4. Fix Problems
+
+Trying to reach page `petclinic.cluster-<your_cluster_id>.do.gokhansengun.com` produces errors. Please find out and fix the problems.
+
+### Hints
+
+- There are more than one error
+- `gsengun/petclinic` Docker image accepts traffic on port 8080
