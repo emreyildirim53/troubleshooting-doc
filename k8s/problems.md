@@ -2,7 +2,7 @@
 
 ## 1. Fixing a Problem, Pod Is Pending
 
-Trying to reach the page `demo.cluster-<your_cluster_id>.do.gokhansengun.com` produces a 503 error. Please find out and fix the problem.
+Trying to reach the page `demo.cluster-<your_cluster_id>.azure.gokhansengun.com` produces a 503 error. Please find out and fix the problem.
 
 ### Hints
 
@@ -11,7 +11,7 @@ Trying to reach the page `demo.cluster-<your_cluster_id>.do.gokhansengun.com` pr
 
 ## 2. Fixing a Problem
 
-Trying to reach the page `demo.cluster-<your_cluster_id>.do.gokhansengun.com` produces a 503 error. Please find out and fix the problem.
+Trying to reach the page `demo.cluster-<your_cluster_id>.azure.gokhansengun.com` produces a 503 error. Please find out and fix the problem.
 
 ### Hints
 
@@ -21,7 +21,7 @@ Trying to reach the page `demo.cluster-<your_cluster_id>.do.gokhansengun.com` pr
 
 ## 3. Fixing a Problem
 
-Trying to reach the page `demo.cluster-<your_cluster_id>.do.gokhansengun.com` produces a 503 error. Please find out and fix the problem.
+Trying to reach the page `demo.cluster-<your_cluster_id>.azure.gokhansengun.com` produces a 503 error. Please find out and fix the problem.
 
 ### Hints
 
@@ -31,7 +31,7 @@ Trying to reach the page `demo.cluster-<your_cluster_id>.do.gokhansengun.com` pr
 
 ## 4. Fixing Some Problems
 
-Trying to reach the page `petclinic.cluster-<your_cluster_id>.do.gokhansengun.com` produces errors. Please find out and fix the problems.
+Trying to reach the page `petclinic.cluster-<your_cluster_id>.azure.gokhansengun.com` produces errors. Please find out and fix the problems.
 
 ### Hints
 
