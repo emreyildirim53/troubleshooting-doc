@@ -22,8 +22,8 @@ Optional: Build and run the app using `docker-compose up` and navigate to `http:
 - Run the apps in Kubernetes
 - Use Helm the deploy apps (vote, result, worker) in Kubernetes
 - Use ingress to access the web apps.
-  - `http://result.cluster-<cluster_id>.do.gokhansengun.com` should point the result web app
-  - `http://vote.cluster-<cluster_id>.do.gokhansengun.com` should point the voting web app
+  - `http://result.cluster-<cluster_id>.azure.gokhansengun.com` should point the result web app
+  - `http://vote.cluster-<cluster_id>.azure.gokhansengun.com` should point the voting web app
 
 ### Hints
 
